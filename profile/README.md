@@ -21,14 +21,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theisraelis&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-
 ### 💼 Open to Collaboration
 
 We are always excited to connect and collaborate on new projects, innovative ideas, or simply exchange insights. If you are interested in collaborating or have an idea for a project, don't hesitate to reach out!
