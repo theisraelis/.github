@@ -13,11 +13,11 @@
 
 ## 🚀 Projects & Deployments
 
-| Project                        | Description                                  | Stack & Deployment                                                                                                                                                                                                   |
+| Project                        | Description                                  | Language                                                                                                                                                                                                  |
 | ------------------------------ | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🕯 [**Shabbat**](https://github.com/theisraelis/shabbat) | A robot for changing the Telegram group's permissions at the entrance and exit of Shabbat | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
 | 💬 **Get Any Message**       | Telegram bot for saving restricted content | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)                  |
-| 🌐 **TheIsraelisBot**    | Telegram bot for searching databases | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)                                                                                      |
+| 🌐 **TheIsraelisBot**    | Telegram bot for searching databases | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)                                                                                      |
 
 ---
 
